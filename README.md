@@ -21,11 +21,14 @@ This project was adapted from a Coursera exercise.
 - Includes a **test case** to validate correctness.  
 
 ## 🗂️ File Structure  
+
 ├── project.py # Main Python script
 ├── members.txt # Active members (auto-generated)
 ├── inactive.txt # Inactive members (auto-generated)
 └── testWrite.txt # Test file (auto-generated)
 └── testAppend.txt # Test file (auto-generated)
+
+
 ## 🖼️ Example Output  
 
 Here’s what the console output looks like:  
