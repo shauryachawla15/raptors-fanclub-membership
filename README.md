@@ -25,7 +25,7 @@ This project was adapted from a Coursera exercise.
 ├── project.py # Main Python script
 ├── members.txt # Active members (auto-generated)
 ├── inactive.txt # Inactive members (auto-generated)
-└── testWrite.txt # Test file (auto-generated)
+├── testWrite.txt # Test file (auto-generated)
 └── testAppend.txt # Test file (auto-generated)
 
 
